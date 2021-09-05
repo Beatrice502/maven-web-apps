@@ -10,10 +10,11 @@
 </head>
 <body>
 <h1 align="center">Landmark Technologies</h1>
-<h2 align="center"> Welcome to Landmark Technology.
-	Special testimony and thanksgiving session coming up on Sunday June 30, 2021
-	Landmark Technology is a an ideal online training  platform for DevOps and Cloud Engineers. 
-	We offer interview preparations and job assitance.
+<h2 align="center"> Welcome to Zuriel Technology.
+	This is my first Jenkins job. Special thanks to prof Legah and Landmark Technology for their 
+	support and relentless efforts to make my devops journey smooth and successful. 
+	I want to also acknowledge my team lead Dr. Forseh (Mola) and all my other team members for 
+	their support and sacrifices. 
 	The shout of the King is in our midst. His name is JESUS.  HE IS OUR SUCCESS ACCESS KEY</h2>
 <hr>
 <div style="text-align: center;">
