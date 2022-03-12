@@ -1,4 +1,4 @@
-FROM tomcat:latest
+FROM tomcat:jre8-temurin-focal
 # Dummy text to test 
 # testing Github webhook is working
 # automation
